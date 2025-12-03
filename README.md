@@ -1,4 +1,4 @@
- 📌  Lead Management System (MERN Stack) 
+📌  Lead Management System (MERN Stack) 
 
 *A complete Lead & Appointment Management Platform*
 
