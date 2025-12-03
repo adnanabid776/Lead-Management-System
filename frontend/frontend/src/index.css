@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import "tailwindcss";
+
+* {
+  font-family: Outfit, sans-serif;
+}
+
+body {
+  background: #F8FAFC;
+  min-height: 100vh;
+}
+
+@theme {
+  --color-primary: #0473ea; /* Vivid Blue */
+  --color-primary-light: #3b82f6;
+  --color-primary-dark: #0358b6;
+
+  --color-accent: #38d200; /* Vivid Green */
+
+  --color-success: #38d200; /* Vivid Green */
+  --color-warning: #f97316;
+  --color-danger: #ef4444;
+  --color-info: #0473ea;
+
+  --color-light: #f3f4f6;
+  --color-dark: #111827;
+
+  --color-border: #e5e7eb;
+  --color-text: #1f2937;
+  --color-muted: #6b7280;
+}
+:root {
+  --blue-main: #0473ea;
+  --green-main: #38d200;
+
+  /* smooth blended shades */
+  --blend-1: #0a84dd;
+  --blend-2: #12a5b7;
+  --blend-3: #24c77b;
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition;
+  }
+
+  .btn-green {
+    @apply px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-500 transition;
+  }
+}
+
+@layer components {
+  .input {
+    @apply p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 outline-none;
+  }
+}

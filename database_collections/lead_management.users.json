@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "691844f438056f5195baa644"
+  },
+  "name": "Admin",
+  "email": "admin@example.com",
+  "password": "123456",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69184736f756d3c8d826da29"
+  },
+  "name": "Mr. Edward",
+  "email": "manager@example.com",
+  "password": "123",
+  "role": "manager",
+  "createdAt": {
+    "$date": "2025-11-15T09:26:14.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T09:26:14.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918474ef756d3c8d826da31"
+  },
+  "name": "Sarah Jones",
+  "email": "manager2@example.com",
+  "password": "123",
+  "role": "manager",
+  "createdAt": {
+    "$date": "2025-11-15T09:26:38.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T15:33:28.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921652751dec1ad76159c1d"
+  },
+  "name": "Agent_A",
+  "email": "agent1@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "69184736f756d3c8d826da29"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T07:24:23.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:24:23.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69216a5da982942ce6417ae9"
+  },
+  "name": "Agent_B",
+  "email": "agent2@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "69184736f756d3c8d826da29"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T07:46:37.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:46:37.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "name": "Agent_C",
+  "email": "agent3@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "6918474ef756d3c8d826da31"
+  },
+  "createdAt": {
+    "$date": "2025-11-24T04:46:35.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:46:35.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e33d209482fa0ef69e77"
+  },
+  "name": "Agent_D",
+  "email": "agent4@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "6918474ef756d3c8d826da31"
+  },
+  "createdAt": {
+    "$date": "2025-11-24T04:46:53.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:46:53.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923f762b52906146b90a6dc"
+  },
+  "name": "Agent_E",
+  "email": "agent5@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "69184736f756d3c8d826da29"
+  },
+  "createdAt": {
+    "$date": "2025-11-24T06:12:50.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T06:12:50.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692e80f0dd2edbe50c69d5a6"
+  },
+  "name": "ali",
+  "email": "agent6@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "6918474ef756d3c8d826da31"
+  },
+  "createdAt": {
+    "$date": "2025-12-02T06:02:24.327Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T06:02:24.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692eb9c3894cd085c385241e"
+  },
+  "name": "salman",
+  "email": "salagent@example.com",
+  "password": "123",
+  "role": "agent",
+  "managerId": {
+    "$oid": "6918474ef756d3c8d826da31"
+  },
+  "createdAt": {
+    "$date": "2025-12-02T10:04:51.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T10:04:51.836Z"
+  },
+  "__v": 0
+}]

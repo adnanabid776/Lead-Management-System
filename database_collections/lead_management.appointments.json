@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "692d2a6afb514eff71e946db"
+  },
+  "lead": {
+    "$oid": "6926aaaaaab440f11dab2758"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-11-30T14:40:00.000Z"
+  },
+  "mode": "online meeting",
+  "notes": "This lead is okay to go.",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T05:40:59.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:06:38.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d68d4fb514eff71e951af"
+  },
+  "lead": {
+    "$oid": "6926aaaaaab440f11dab2745"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T10:07:00.000Z"
+  },
+  "mode": "email",
+  "notes": "Done",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:07:16.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:07:16.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d68e6fb514eff71e951c5"
+  },
+  "lead": {
+    "$oid": "6926aaaaaab440f11dab2747"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T10:07:00.000Z"
+  },
+  "mode": "sms",
+  "notes": "Not done yet.",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:07:34.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:07:34.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d6901fb514eff71e951db"
+  },
+  "lead": {
+    "$oid": "6926aaaaaab440f11dab2748"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T10:07:00.000Z"
+  },
+  "mode": "sms",
+  "notes": "Meeting is in progress",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:08:01.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:08:01.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d693cfb514eff71e951f1"
+  },
+  "lead": {
+    "$oid": "692946494267d72576ca6c38"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T10:08:00.000Z"
+  },
+  "mode": "email",
+  "notes": "Business is done",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:09:00.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:09:00.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d69b6fb514eff71e9520f"
+  },
+  "lead": {
+    "$oid": "692946494267d72576ca6c41"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T10:10:00.000Z"
+  },
+  "mode": "sms",
+  "notes": "yes",
+  "status": "scheduled",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:11:02.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-01T10:11:02.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692d69ccfb514eff71e95225"
+  },
+  "lead": {
+    "$oid": "692946494267d72576ca6c44"
+  },
+  "assignedTo": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "date": {
+    "$date": "2025-12-01T05:11:00.000Z"
+  },
+  "mode": "email",
+  "notes": "yes",
+  "status": "completed",
+  "createdBy": {
+    "$oid": "6923e32b209482fa0ef69e73"
+  },
+  "createdAt": {
+    "$date": "2025-12-01T10:11:24.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T05:05:39.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692e784add2edbe50c69d40b"
+  },
+  "lead": {
+    "$oid": "6926aaaaaab440f11dab2746"
+  },
+  "assignedTo": {
+    "$oid": "6923e33d209482fa0ef69e77"
+  },
+  "date": {
+    "$date": "2025-12-02T00:24:00.000Z"
+  },
+  "mode": "email",
+  "notes": "email conatctd",
+  "status": "completed",
+  "createdBy": {
+    "$oid": "6923e33d209482fa0ef69e77"
+  },
+  "createdAt": {
+    "$date": "2025-12-02T05:25:30.697Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T05:26:58.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebabd894cd085c38524b9"
+  },
+  "lead": {
+    "$oid": "692946494267d72576ca6bd5"
+  },
+  "assignedTo": {
+    "$oid": "692eb9c3894cd085c385241e"
+  },
+  "date": {
+    "$date": "2025-12-02T05:08:00.000Z"
+  },
+  "mode": "call",
+  "notes": "complete meeting, can we win lead ",
+  "status": "completed",
+  "createdBy": {
+    "$oid": "692eb9c3894cd085c385241e"
+  },
+  "createdAt": {
+    "$date": "2025-12-02T10:09:01.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T10:09:31.741Z"
+  },
+  "__v": 0
+}]
