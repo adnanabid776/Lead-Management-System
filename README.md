@@ -4,9 +4,9 @@
 
   👤  Developed By 
 
+*  Muhammad Junaid Anwar
 *  Adnan Abid 
-*  Muhammad Junaid Anwar 
-  *Department: Web Development*
+*  Department: Web Development
 
 ---
 
